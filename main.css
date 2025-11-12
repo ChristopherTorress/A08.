@@ -163,4 +163,20 @@ footer p {
     color: white;
     padding-top: 1em;
     padding-bottom: 1em;
+/* ---------- SPEAKER PAGE (Exercise 6-2) ---------- */
+.speaker h1 {
+  color: #0047ab;           /* accent blue for main heading */
 }
+
+.speaker h2 {
+  color: #000;              /* black subheading */
+}
+
+.speaker p {
+  padding-top: 0.5em;       /* more vertical space for long paragraphs */
+  padding-bottom: 0.5em;
+}
+That’s all th
+}
+
+
